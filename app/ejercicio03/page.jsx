@@ -59,7 +59,7 @@ const Ejericio03 = () => {
   }
   return (
     <div className = 'max-w-lg mx-auto mt-5'>
-      <h1 className = 'text-center uppercase'>Acepta todas las cadenas del Σ={a,b} donde despues de cada "a" sigue una "b".</h1>
+      <h1 className = 'text-center uppercase'>Acepta todas las cadenas del Σ=a,b donde despues de cada "a" sigue una "b".</h1>
       <div className = 'mt-5'>
         <input 
         className = 'w-full p-2 rounded'

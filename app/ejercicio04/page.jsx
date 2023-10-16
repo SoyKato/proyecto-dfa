@@ -65,7 +65,7 @@ const Ejericio03 = () => {
   }
   return (
     <div className = 'max-w-lg mx-auto mt-5'>
-      <h1 className = 'text-center uppercase'>Acepta todas las cadenas del Σ={a,b} donde la palabra inicia y termina en la misma letra.</h1>
+      <h1 className = 'text-center uppercase'>Acepta todas las cadenas del Σ=a,b donde la palabra inicia y termina en la misma letra.</h1>
       <div className = 'mt-5'>
         <input 
         className = 'w-full p-2 rounded'
